@@ -1,4 +1,4 @@
-# 🚀 Prodesk IT Digital Agency - Landing Page
+# Prodesk IT Digital Agency - Landing Page
 
 This is a responsive landing page built as part of Week 1 internship mission at Prodesk IT.
 
@@ -6,19 +6,19 @@ The project focuses on core frontend fundamentals including layout design, respo
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 https://your-live-link.vercel.app
+https://your-live-link.vercel.app
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 
 (Add your screenshot here)
 
 ---
 
-## ✨ Features
+## Features
 
 * Responsive design (Mobile + Desktop)
 * Sticky navigation bar
@@ -50,7 +50,7 @@ project-folder/
 
 ---
 
-## 🎯 Key Highlights
+## Key Highlights
 
 * Built using only raw CSS (no frameworks)
 * Focused on clean UI and spacing
@@ -59,7 +59,7 @@ project-folder/
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 The website is fully responsive and works across:
 
@@ -69,13 +69,13 @@ The website is fully responsive and works across:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 The project is deployed using Vercel.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project helped strengthen my understanding of:
 
