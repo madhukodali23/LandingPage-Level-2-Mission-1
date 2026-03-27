@@ -8,7 +8,7 @@ The project focuses on core frontend fundamentals including layout design, respo
 
 ## Live Demo
 
-[[https://your-live-link.vercel.app](https://landing-page-level-2-mission-1.vercel.app/)]
+[https://your-live-link.vercel.app](https://landing-page-level-2-mission-1.vercel.app/)
 
 ---
 
