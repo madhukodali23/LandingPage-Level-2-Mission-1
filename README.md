@@ -15,6 +15,8 @@ The project focuses on core frontend fundamentals including layout design, respo
 
 <img width="1919" height="871" alt="Screenshot 2026-03-28 074108" src="https://github.com/user-attachments/assets/2545d46d-6ee5-4c6c-8b24-f848d6b1d26a" />
 
+---
+
 <img width="1891" height="871" alt="Screenshot 2026-03-28 074127" src="https://github.com/user-attachments/assets/b9c3b1a9-54a1-4b4c-9709-e495a256a872" />
 
 
